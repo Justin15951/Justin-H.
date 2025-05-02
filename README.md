@@ -14,7 +14,6 @@ Welcome to my GitHub! I’m a data-driven problem solver with a B.A. in Quantita
 
 **Big Data & Cloud Technologies:**  
 - Apache Hadoop (HDFS, MapReduce basics)  
-- Google BigQuery, AWS S3  
 - Databricks, Jupyter Notebooks  
 - Apache Airflow (basic workflow automation)  
 
@@ -23,8 +22,7 @@ Welcome to my GitHub! I’m a data-driven problem solver with a B.A. in Quantita
 - Power BI  
 - Excel (Power Query, Power Pivot)  
 
-**Other Tools & Skills:**  
-- Git & GitHub  
+**Other Tools & Skills:**    
 - Microsoft Office Suite  
 - Statistical Modeling, A/B Testing, Forecasting, Clustering  
 
@@ -61,9 +59,8 @@ I enjoy solving complex problems with a structured approach—using data to tell
 
 ### 📫 Let’s Connect
 
-- 📧 Email: your@email.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 🌐 [Portfolio Website](https://yourwebsite.com) *(optional)*
+- 📧 Email: justinhuang0710@email.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/)  
 
 ---
 
