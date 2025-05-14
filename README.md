@@ -66,5 +66,4 @@ I enjoy solving complex problems with a structured approach—using data to tell
 
 ### 💡 Fun Fact
 
-I’ve led summer coding programs teaching Python and data concepts, combining analytical thinking with real-world applications to make data approachable and impactful.
 
